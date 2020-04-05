@@ -48,7 +48,7 @@ class Home extends StatelessWidget {
           size: 35,
         ),
         title: Text(
-          "Chats",
+          "Chats App",
           style: Theme.of(context).textTheme.title,
         ),
         centerTitle: true,
